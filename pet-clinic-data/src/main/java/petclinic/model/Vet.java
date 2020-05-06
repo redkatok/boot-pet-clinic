@@ -1,4 +1,4 @@
-package app.core.domain;
+package petclinic.model;
 
 public class Vet extends Person {
 
